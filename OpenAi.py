@@ -9,7 +9,7 @@ import openai
 # TeleGram Channels @MeshkiTm - @irkral
 
 token = '---' #Token Telegram Bot
-openai.api_key = "s7-pbSFOHl5ATIDn1h0cdPCJ" # OpenAi api Key
+openai.api_key = "---" # OpenAi api Key
 bot = telebot.TeleBot(token)
 	
 bot.set_my_commands([
